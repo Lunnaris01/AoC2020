@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce327fc1-0cd3-4bea-84c9-5591d223e95e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Tag1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Tag2-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Tag3-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Tag4-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Tag5-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Tag6-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Tag7-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/.ipynb_checkpoints/Template-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Tag1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Tag2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Tag3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Tag4.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Tag5.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Tag6.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Tag7.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Template.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Res/input_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/input_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Res/input_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/input_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Res/input_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/input_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Res/input_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/input_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Res/input_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/input_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Res/input_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/input_6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Res/input_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/input_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Res/input_7_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/input_7_test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Res/testinput.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/testinput.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lNCP4XnTpng2T4PL1L3zAnf9Mw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/C/Tag2" />
+      <recent name="$PROJECT_DIR$/C/Tag1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce327fc1-0cd3-4bea-84c9-5591d223e95e" name="Default Changelist" comment="" />
+      <created>1607428134813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607428134813</updated>
+      <workItem from="1607428136188" duration="133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
